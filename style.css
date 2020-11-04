@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #eee;
+}
+
+.container {
+    padding: 40px;
+    max-width: 400px;
+    text-align: center;
+}
+
+.content {
+    list-style-type: none;
+    background-color: #eaeaea;
+    border-radius: 3px;
+    padding: 5px;
+    text-align: left;
+    border: 1px solid black;
+}
+
+#searchBar {
+    width: 200px;
+    height: 32px;
+    border-radius: 3px;
+    border: 1px solid black;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+#searchWrapper {
+    position: relative;
+}
