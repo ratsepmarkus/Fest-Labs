@@ -2,6 +2,8 @@ const infoList = document.getElementById('infoList');
 const searchBar = document.getElementById('searchBar');
 let info = [];
 
+
+
 // FUZZY SEARCH
 searchBar.addEventListener('keyup', (e) => {
     const searchString = e.target.value.toLowerCase();
@@ -15,6 +17,8 @@ searchBar.addEventListener('keyup', (e) => {
     displayCharacters(filteredCharacters);
 });
 
+
+
 // API FETCH (praegu on ainult 1 API)
 const loadCharacters = async() => {
     try {
@@ -26,6 +30,8 @@ const loadCharacters = async() => {
         console.error(err);
     }
 };
+
+
 
 // API INFO HTML-i
 const displayCharacters = (contentAll) => {
