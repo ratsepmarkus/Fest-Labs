@@ -100,6 +100,20 @@ a {
     width: 100%;
 }
 
+.dayyTop {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.dayyBottom {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
 .hourBox {
     border: solid;
     display: flex;
@@ -151,4 +165,22 @@ a {
     width: 100%;
     position: fixed;
     bottom: 0;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footerLeft {
+    padding: 5px 20px;
+    align-items: center;
+}
+
+.footerRight {
+    padding: 5px 20px;
+    align-items: center;
+}
+
+#star {
+    margin-right: 20px;
 }
