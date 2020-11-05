@@ -38,11 +38,13 @@ a:link {
 
 .favorite {
     margin-top: 20px;
+    margin-bottom: 4rem;
     display: flex;
     align-items: center;
     width: 320px;
     height: 44px;
     background-color: #E9E9E9;
+    font-weight: bold;
 }
 
 #star {
@@ -51,4 +53,16 @@ a:link {
 
 .faveText {
     font-size: 1.2rem;
+}
+
+.content {
+    list-style-type: none;
+    background-color: #eaeaea;
+    border-radius: 3px;
+    padding: 5px;
+    text-align: left;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    width: 320px;
+    height: 44px;
 }
