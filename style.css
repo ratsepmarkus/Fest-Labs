@@ -56,22 +56,10 @@ a {
     height: 100%;
     width: 100%;
     align-items: center;
-    justify-content: center;
+    justify-content: left;
 }
 
 .timeDiv {
-    display: flex;
-}
-
-.lessonDiv {
-    display: flex;
-}
-
-.roomDiv {
-    display: flex;
-}
-
-.groupDiv {
     display: flex;
 }
 
@@ -83,14 +71,14 @@ a {
     padding-left: 8px;
     padding-right: 8px;
     font-size: 30px;
-    background-color: blue;
+    background-color: #DF771C;
     margin: 2px;
     border: solid;
 }
 
 .top-nav {
     border: solid;
-    background-color: blueviolet;
+    background-color: #1D5381;
     padding: 5px;
 }
 
@@ -98,13 +86,15 @@ a {
     padding-left: 8px;
     padding-right: 8px;
     font-size: 30px;
-    background-color: lightblue;
+    background-color: #1D5381;
     margin: 2px;
     border: solid;
 }
 
 .Days {
     color: black;
+    display: flex;
+    flex-direction: column;
 }
 
 .Week {
@@ -118,7 +108,7 @@ a {
 }
 
 .calender {
-    border: solid;
+    justify-content: right;
 }
 
 .tabel {
