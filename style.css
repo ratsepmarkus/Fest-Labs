@@ -3,10 +3,11 @@
     margin: 0;
     padding: 0;
     font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
 }
 
 body {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
 }
 
@@ -22,6 +23,9 @@ a {
     color: white;
     text-decoration: none;
 }
+
+
+/*Header*/
 
 .timeTable {
     display: flex;
@@ -45,6 +49,9 @@ a {
     border: solid;
     background-color: #1D5381;
     padding: 5px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .Day2 {
@@ -58,6 +65,9 @@ a {
 
 .Days {
     color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .Week {
@@ -69,6 +79,7 @@ a {
     display: flex;
     justify-content: space-between;
     border-left: solid #0094FF;
+    scroll-margin-top: 6.5rem;
 }
 
 .tabel {
@@ -108,6 +119,9 @@ a {
 }
 
 .calender {
+    position: fixed;
+    background-color: azure;
+    top: 3.9rem;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
@@ -126,4 +140,15 @@ a {
     align-items: center;
     padding: 2px;
     background-color: #1D5381;
+}
+
+
+/* footer */
+
+.footer {
+    background-color: black;
+    height: 65px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
 }
