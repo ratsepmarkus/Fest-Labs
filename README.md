@@ -12,7 +12,7 @@
 
 * **Markus Rätsep**
   * javascript, rahul
-  * õpetasin teisi, kuidas koodi kirjutada
+  * õpetasin teisi ja õppisin ise, kuidas koodi kirjutada
   * Javascriptiga API
 
 * **Karl Gregor Rauniste**
