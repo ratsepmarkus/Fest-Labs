@@ -35,7 +35,6 @@ a {
     height: 50px;
     width: 300px;
     margin: 0.2rem;
-    border-radius: 25px;
     align-items: center;
     justify-self: center;
 }
@@ -47,7 +46,6 @@ a {
     height: 50px;
     width: 300px;
     margin: 0.2rem;
-    border-radius: 25px;
     align-items: center;
     justify-self: center;
 }
@@ -85,17 +83,24 @@ a {
     padding-left: 8px;
     padding-right: 8px;
     font-size: 30px;
-    border: solid 3px #1D5381;
-    background-color: #DF771C;
-    border-radius: 50%;
+    background-color: blue;
+    margin: 2px;
+    border: solid;
+}
+
+.top-nav {
+    border: solid;
+    background-color: blueviolet;
+    padding: 5px;
 }
 
 .Day2 {
     padding-left: 8px;
     padding-right: 8px;
     font-size: 30px;
-    background-color: #ff9c46;
-    border-radius: 50%;
+    background-color: lightblue;
+    margin: 2px;
+    border: solid;
 }
 
 .Days {
@@ -107,9 +112,13 @@ a {
     background-color: #1D5381;
     color: white;
     font-size: 18px;
-    border-radius: 25px;
     padding: 10px;
     margin-bottom: 5px;
+    margin: 10px;
+}
+
+.calender {
+    border: solid;
 }
 
 .tabel {
@@ -121,6 +130,7 @@ a {
     padding: 25px;
     margin-bottom: 5px;
     width: 200px;
+    justify-content: space-evenly;
 }
 
 .Arrow {
