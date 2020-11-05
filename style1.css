@@ -1,0 +1,61 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Day {
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 30px;
+    background-color: #0094FF;
+    margin: 7px;
+    border: solid;
+}
+.Day2 {
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 30px;
+    background-color: lightblue;
+    margin: 7px;
+    border: solid;
+}
+
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+.first-line {
+    display: flex;
+    flex-direction: column;
+    border: solid;
+}
+.e1 {
+    display: grid;
+    border: solid;
+    padding: 70px 50px;
+    margin: 3px;
+
+}
+.week-timetabel {
+    display: grid;
+    align-content: center;
+    grid-template-columns: auto auto auto auto auto ;
+    grid-gap: 2px;
+    background-color: #ffffff;
+    margin: 10px;
+   
+        
+}
+.all {
+    display: flex;
+    flex-direction: column;
+}

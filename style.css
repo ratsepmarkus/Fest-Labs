@@ -134,7 +134,7 @@ a {
     border: solid;
     height: 37px;
     background-color: black;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
 
 }
