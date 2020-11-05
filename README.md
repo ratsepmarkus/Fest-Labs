@@ -1,5 +1,5 @@
-# PROJEKT 2
-## Tiimi liikmete nimed
+# PROJEKT 2 Fest-Lab
+## Tiimi liikmed
 * **Priit Puppart**
   * javascript, rahul
   * vaatasin, kuidas koodi kirjutatakse
