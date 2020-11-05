@@ -105,6 +105,8 @@ a {
 
 .Days {
     color: black;
+    display: flex;
+    flex-direction: column;
 }
 
 .Week {
@@ -118,8 +120,14 @@ a {
 }
 
 .calender {
+    height: 40px;
     border: solid;
+    justify-items: right;
+    
+
+
 }
+
 .tabel {
     justify-content: center;
     background-color: #1D5381;
