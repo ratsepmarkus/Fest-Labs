@@ -28,56 +28,6 @@ a {
     align-items: center;
 }
 
-.lessonBox {
-    display: flex;
-    flex: 1;
-    background: #1D5381;
-    height: 50px;
-    width: 300px;
-    margin: 0.2rem;
-    align-items: center;
-    justify-self: center;
-}
-
-.lessonBox2 {
-    display: flex;
-    flex: 1;
-    background: #DF771C;
-    height: 50px;
-    width: 300px;
-    margin: 0.2rem;
-    align-items: center;
-    justify-self: center;
-}
-
-.lessonInfo {
-    display: flex;
-    border: solid 1px white;
-    height: 100%;
-    width: 100%;
-    align-items: center;
-    justify-content: center;
-}
-
-.timeDiv {
-    display: flex;
-}
-
-.lessonDiv {
-    display: flex;
-}
-
-.roomDiv {
-    display: flex;
-}
-
-.groupDiv {
-    display: flex;
-}
-
-.filter:hover .dropdown_filter {
-    display: flex;
-}
 
 .Day {
     padding-left: 8px;
@@ -105,8 +55,6 @@ a {
 
 .Days {
     color: black;
-    display: flex;
-    flex-direction: column;
 }
 
 .Week {
@@ -120,14 +68,8 @@ a {
 }
 
 .calender {
-    height: 40px;
     border: solid;
-    justify-items: right;
-    
-
-
 }
-
 .tabel {
     justify-content: center;
     background-color: #1D5381;
@@ -140,108 +82,24 @@ a {
     justify-content: space-evenly;
 }
 
-.Arrow {
-    width: 15px;
-    margin-top: 12px;
-    justify-content: center;
-    align-items: center;
+.dayy {
+    display: flex;
+    flex-direction: column;
 }
 
-.Magni {
-    width: 30px;
-    margin-top: 7px;
-    margin: auto;
-    margin-left: 250px;
-}
-
-
-/* dropdown */
-
-.container {
-    justify-content: center;
-    margin: auto;
+.hourBox {
+    padding: 20px;
+    border: solid;
+    display: flex;
     width: 200px;
-    text-align: center;
+    flex-direction: column;
+    background: #FF9900;
+    border: solid 1px black;
+    margin-top: 24px;
 }
 
-.container>.dropdown {
-    justify-content: center;
-    vertical-align: top;
-}
-
-.dropdown {
-    justify-content: center;
-    background-color: #1D5381;
-    font-size: 18px;
-    border-radius: 25px;
-    padding: 10px;
-    margin-bottom: 5px;
-    position: relative;
-    overflow: hidden;
-    height: 40px;
-    width: 200px;
-}
-
-.dropdown-select {
-    position: relative;
-    margin: 0;
-    font-size: 16px;
-    background: rgba(0, 0, 0, 0) !important;
-}
-
-.dropdown-select:focus {
+.firstRow {
+    display: flex;
+    justify-content: space-between;
     width: 100%;
-    color: #394349;
-}
-
-.dropdown-select>option {
-    margin: 3px;
-    text-shadow: none;
-    border-radius: 3px;
-    cursor: pointer;
-}
-
-.dropdown-dark {
-    justify-content: center;
-    background-color: #DF771C;
-    font-size: 18px;
-    border-radius: 25px;
-    padding: 10px;
-    margin-bottom: 5px;
-    position: relative;
-    overflow: hidden;
-    height: 40px;
-    width: 200px;
-}
-
-.dropdown-dark .dropdown-select {
-    background: #444;
-}
-
-.dropdown-dark .dropdown-select:focus {
-    color: #ccc;
-}
-
-.dropdown-dark .dropdown-select>option {
-    background: #444;
-}
-
-.inputDark {
-    color: white;
-    background-color: #1D5381;
-    border: none;
-    font-size: 18px;
-}
-
-.inputLight {
-    color: white;
-    background-color: #DF771C;
-    border: none;
-    font-size: 18px;
-}
-
-::placeholder {
-    font-size: 22px;
-    text-align: center;
-    color: white;
 }
