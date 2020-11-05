@@ -1,29 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Lato', sans-serif;
-    box-sizing: border-box;
+    overflow-x: hidden;
 }
 
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    background-color: #2196F3;
-    padding: 10px;
-  }
-  .grid-item {
-    background-color: rgba(255, 255, 255, 0.8);
-    border: 1px solid rgba(0, 0, 0, 0.8);
-    padding: 20px;
-    font-size: 30px;
-    text-align: center;
-  }
-
-  .calender {
-    position: fixed;
+.calender {
     background-color: azure;
-    top: 3.9rem;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
@@ -31,4 +13,94 @@
     border-bottom: solid;
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.Day {
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 30px;
+    background-color: #0094FF;
+    margin: 7px;
+    border: solid;
+}
+
+.Day2 {
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 30px;
+    background-color: lightblue;
+    margin: 7px;
+    border: solid;
+}
+
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.first-line {
+    display: flex;
+    flex-direction: column;
+    border: solid;
+}
+
+.el {
+    display: grid;
+    border: solid;
+    width: 70px;
+    height: 160px ;
+    background: #FF9900;
+}
+
+.week-timetabel {
+    display: grid;
+    align-content: center;
+    grid-template-columns: auto auto auto auto auto ;
+    grid-gap: 2px;
+    background-color: #ffffff;
+    margin: 10px;
+}
+
+.all {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    background-color: black;
+    height: 65px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footerLeft {
+    padding: 5px 20px;
+    align-items: center;
+    display: flex;
+}
+
+.footerRight {
+    padding: 5px 20px;
+    align-items: center;
+}
+
+#star {
+    margin-right: 20px;
+}
+
+.bottom {
+    height: 10px;
+    margin-top: 100px;
 }
