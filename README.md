@@ -1,52 +1,57 @@
 # PROJEKT 2
 ## Tiimi liikmete nimed
 * **Priit Puppart**
-  ** jah, javascript
-  ** vaatamine, kuidas koodi kirjutatakse
-  ** gitis orienteerumine
+  * javascript, rahul
+  * vaatasin, kuidas koodi kirjutatakse
+  * gitis orienteerumine
 
 * **Kadri Maripuu**
-  ** sobis figma tiimis olemine
-  ** igasuguseid küsimusi küsima
-  ** tutvusin figma materjalidega
+  * figma, rahul
+  * igasuguste küsimuste küsimine
+  * tutvusin figma materjalidega
 
 * **Markus Rätsep**
-** rahul
-** õpetama, kuidas koodi kirjutada
-** Javascriptga API
+  * javascript, rahul
+  * õpetasin teisi, kuidas koodi kirjutada
+  * Javascriptiga API
 
 * **Karl Gregor Rauniste**
-** jah, figma
+  * figma, rahul
 
 * **Rihard Pärgma**
-** html, pärast olin om aülesandega rahul
-** meeskonnakaaslastega suhtlemine
-** kuidas figmat kasutada
+  * figma, algul tahtsin rohkem htmli, pärast olin oma ülesandega rahul
+  * meeskonnakaaslastega suhtlemine
+  * kuidas figmat kasutada
 
 * **Sander Oll**
-** sobis figma disainiülesande täitmine
-** oma arvamuse avaldamine, tesitega ülesande lahendamine
-** figmas wireframe kasutamine
+  * figma, rahul, sobis figma disainiülesande täitmine
+  * oma arvamuse avaldamine, teistega koos ülesande lahendamine
+  * figmas wireframe kasutamine
 
 * **Rasmus Ling**
-** oleks tahtnud olla figmas
-** suhtlusoskus
-** sain giti selgemaks
+  * Html-css, oleks tahtnud olla figmas
+  * suhtlusoskus
+  * sain giti selgemaks
 
 * **Merlin Praks**
-** olen rahul tiimi valikuga
-** meeskonnatöö olulisus
-** html, css struktuurist, süsteemist, interaktsiooniust aru saamine
+  * html-css, rahul
+  * meeskonnatöö olulisus
+  * html, css struktuurist, süsteemist, interaktsiooniust aru saamine
 
 * **Rasmus Kaasik**
-** pigem html
-** oskan nüüd meeskonnas paremini töötada
-** oskan node.js kasutada
+  * pigem html
+  * oskan nüüd meeskonnas paremini töötada
+  * oskan node.js kasutada
 
-* **Karl Jäme
-** rahul html-css
-** õpetasin naabrit
-** kuidas gridi kasutada
+* **Karl Jäme**
+  * html-css, rahul
+  * õpetasin naabrit
+  * kuidas gridi kasutada
+  
+* **Terje Volke
+  * javascript, rahul 
+  * keskendumine infomüras
+  * git, APId
 
 Link Figmale (avalik)
 Link rakendusele
