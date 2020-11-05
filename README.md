@@ -48,7 +48,7 @@
   * õpetasin naabrit
   * kuidas gridi kasutada
   
-* **Terje Volke
+* **Terje Volke**
   * javascript, rahul 
   * keskendumine infomüras
   * git, APId
