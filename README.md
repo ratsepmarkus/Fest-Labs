@@ -4,54 +4,65 @@
   * javascript, rahul
   * vaatasin, kuidas koodi kirjutatakse
   * gitis orienteerumine
+  
 
 * **Kadri Maripuu**
   * figma, rahul
   * igasuguste küsimuste küsimine
   * tutvusin figma materjalidega
+  
 
 * **Markus Rätsep**
   * javascript, rahul
   * õpetasin teisi ja õppisin ise, kuidas koodi kirjutada
   * Javascriptiga API
+  
 
 * **Karl Gregor Rauniste**
   * figma, rahul
+  
 
 * **Rihard Pärgma**
   * figma, algul tahtsin rohkem htmli, pärast olin oma ülesandega rahul
   * meeskonnakaaslastega suhtlemine
   * kuidas figmat kasutada
+  
 
 * **Sander Oll**
   * figma, rahul, sobis figma disainiülesande täitmine
   * oma arvamuse avaldamine, teistega koos ülesande lahendamine
   * figmas wireframe kasutamine
+  
 
 * **Rasmus Ling**
   * Html-css, oleks tahtnud olla figmas
   * suhtlusoskus
   * sain giti selgemaks
+  
 
 * **Merlin Praks**
   * html-css, rahul
   * meeskonnatöö olulisus
   * html, css struktuurist, süsteemist, interaktsiooniust aru saamine
+  
 
 * **Rasmus Kaasik**
   * pigem html
   * oskan nüüd meeskonnas paremini töötada
   * oskan node.js kasutada
+  
 
 * **Karl Jäme**
   * html-css, rahul
   * õpetasin naabrit
   * kuidas gridi kasutada
   
+  
 * **Terje Volke**
   * javascript, rahul 
   * keskendumine infomüras
   * git, APId
+  
 
 Link Figmale (avalik)
 Link rakendusele
