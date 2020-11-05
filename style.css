@@ -128,3 +128,13 @@ a {
     align-items: center;
     padding: 2px;
 }
+.footer {
+    display: flex;
+    width: 310px;
+    border: solid;
+    height: 37px;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+
+}
