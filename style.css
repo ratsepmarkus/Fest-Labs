@@ -47,7 +47,7 @@ a {
 }
 
 .top-nav {
-    border: solid;
+    border-bottom: solid;
     background-color: #1D5381;
     padding: 5px;
     width: 100%;
@@ -137,7 +137,7 @@ a {
 .calender {
     position: fixed;
     background-color: azure;
-    top: 3.9rem;
+    top: 3.5rem;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
