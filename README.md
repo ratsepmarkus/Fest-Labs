@@ -24,7 +24,6 @@
   * figma, algul tahtsin rohkem htmli, pärast olin oma ülesandega rahul
   * meeskonnakaaslastega suhtlemine
   * kuidas figmat kasutada
-  * kuidas figmat kasutada 
   <br>
 
 * **Sander Oll**
