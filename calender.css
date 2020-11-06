@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 * {
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 .calender {
@@ -54,9 +57,11 @@ body {
 .el {
     display: grid;
     border: solid;
-    width: 70px;
+    width: 84px;
     height: 160px ;
     background: #FF9900;
+    font-size: 1rem;
+    padding: 2px;
 }
 
 .week-timetabel {
