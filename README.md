@@ -10,8 +10,9 @@
   * gitis orienteerumine
 
 * **Karl Gregor Rauniste**
-  * figma, rahul
- <br>
+  * HTML/CSS, Oleks proovinud heameelega Figmat
+  * Jooksvate probleemide haldamine, ning vöimalusel/oskusel nende lahendamine.
+  * Enamvähem Js fussy searchi
 
 * **Kadri Maripuu**
   * figma, rahul
