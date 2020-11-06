@@ -2,7 +2,7 @@
 ## Link Figmale (avalik)
 [FIGMA](https://www.figma.com/file/cBEt1PxIzU4m0K6qyPbfVG/Untitled)
 ## Link rakendusele
-[Veebileht]()
+[Veebileht](https://ta19rauniste.itmajakas.ee/Fest-Labs/)
 ## Tiimi liikmed
 * **Priit Puppart**
   * javascript, rahul
