@@ -70,4 +70,27 @@
    <br>
 
 * **Rasmus Kaasik**
+  * pigem html
   * javascript, pigem oleks tahtnud html-cssi teha
+  * oskan nüüd meeskonnas paremini töötada
+  * oskan node.js kasutada
+
+
+* **Karl Jäme**
+  * html-css, rahul
+  * õpetasin naabrit
+  * kuidas gridi kasutada
+
+
+* **Terje Volke**
+  * javascript, rahul 
+  * keskendumine infomüras
+  * git, APId
+
+
+Link Figmale (avalik)
+Link rakendusele
+Iga tiimi liikme nime ja vastuseid kolmele küsimusele
+Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+Üks pehme oskus, mida õppisin ja endas arendasin
+Üks tehniline oskus, mida õppisin ja endas arendasin
