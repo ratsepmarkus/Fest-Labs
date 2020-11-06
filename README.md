@@ -44,9 +44,9 @@
   * Javascriptiga API
   
 * **Priit Puppart**
-  * javascript, rahul
-  * vaatasin, kuidas koodi kirjutatakse
-  * gitis orienteerumine
+  * javascript, rahul. Oleks tahtnud osata aidata ja anda suuremat omapoolset panust. Hetkel jäin rohkem vaataja rolli.
+  * vaatasin, kuidas koodi kirjutatakse ning kuidas selle tarvis on google.com keskkonnast võimalik leida palju kohendamist vajavaid valmislahendusi.
+  * gitis orienteerumine. Dev.doolsist rohkem arusaamine ning kuidas on sellest abi.
 
 * **Terje Volke**
   * javascript, rahul 
