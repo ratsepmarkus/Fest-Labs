@@ -1,69 +1,63 @@
-# PROJEKT 2 Fest-Lab
-Link Figmale (avalik)
-FIGMA
+* **Karl Gregor Rauniste**
+  * figma, rahul
+ <br>
 
-Link rakendusele
-Projekti ül
 
-Tiimi liikmed
-Karl Gregor Rauniste
-figma, rahul
+* **Kadri Maripuu**
+  * figma, rahul
+  * igasuguste küsimuste küsimine
+  * tutvusin figma materjalidega
+ <br>
 
-Kadri Maripuu
-figma, rahul
-igasuguste küsimuste küsimine
-tutvusin figma materjalidega
+* **Rihard Pärgma**
+  * figma, algul tahtsin rohkem htmli, pärast olin oma ülesandega rahul
+  * meeskonnakaaslastega suhtlemine
+  * kuidas figmat kasutada
+  * kuidas figmat kasutada 
+  <br>
 
-Rihard Pärgma
+* **Sander Oll**
+  * figma, rahul, sobis figma disainiülesande täitmine
+  * oma arvamuse avaldamine, teistega koos ülesande lahendamine
+  * figmas wireframe kasutamine
+   <br>
 
-figma, algul tahtsin rohkem htmli, pärast olin oma ülesandega rahul
-meeskonnakaaslastega suhtlemine
-kuidas figmat kasutada
+* **Karl Jäme**
+  * html-css, rahul
+  * õpetasin naabrit
+  * kuidas gridi kasutada
+   <br>
 
-Sander Oll
+* **Rasmus Ling**
+  * Html-css, oleks tahtnud olla figmas
+  * suhtlusoskus
+  * sain giti selgemaks
+   <br>
 
-figma, rahul, sobis figma disainiülesande täitmine
-oma arvamuse avaldamine, teistega koos ülesande lahendamine
-figmas wireframe kasutamine
+* **Merlin Praks**
+  * html-css, rahul
+  * meeskonnatöö olulisus
+  * html, css struktuurist, süsteemist, interaktsioonist aru saamine  
+  * html, css struktuurist, süsteemist, interaktsioonist aru saamine 
+   <br>
 
-Karl Jäme
+* **Markus Rätsep**
+  * javascript, rahul
+  * õpetasin teisi ja õppisin ise, kuidas koodi kirjutada
+  * Javascriptiga API
+   <br>
 
-html-css, rahul
-õpetasin naabrit
-kuidas gridi kasutada
+* **Priit Puppart**
+  * javascript, rahul. Oleks tahtnud osata aidata ja anda suuremat omapoolset panust. Hetkel jäin rohkem vaataja rolli.
+  * vaatasin, kuidas koodi kirjutatakse ning kuidas selle tarvis on google.com keskkonnast võimalik leida palju kohendamist vajavaid valmislahendusi.
+  * gitis orienteerumine. Dev.doolsist rohkem arusaamine ning kuidas on sellest abi.
+   <br>
 
-Rasmus Ling
+* **Terje Volke**
+  * javascript, rahul 
+  * vaatasin, kuidas koodi kirjutatakse
+  * git, APId  
+   <br>
 
-Html-css, oleks tahtnud olla figmas
-suhtlusoskus
-sain giti selgemaks
-
-Merlin Praks
-
-html-css, rahul
-meeskonnatöö olulisus
-html, css struktuurist, süsteemist, interaktsioonist aru saamine
-
-Markus Rätsep
-
-javascript, rahul
-õpetasin teisi ja õppisin ise, kuidas koodi kirjutada
-Javascriptiga API
-
-Priit Puppart
-
-javascript, rahul. Oleks tahtnud osata aidata ja anda suuremat omapoolset panust. Hetkel jäin rohkem vaataja rolli.
-vaatasin, kuidas koodi kirjutatakse ning kuidas selle tarvis on google.com keskkonnast võimalik leida palju kohendamist vajavaid valmislahendusi.
-gitis orienteerumine. Dev.doolsist rohkem arusaamine ning kuidas on sellest abi.
-
-Terje Volke
-
-javascript, rahul
-vaatasin, kuidas koodi kirjutatakse
-git, APId
-
-Rasmus Kaasik
-
-javascript, pigem oleks tahtnud html-cssi teha
-oskan nüüd meeskonnas paremini töötada
-oskan node.js kasutada
+* **Rasmus Kaasik**
+  * javascript, pigem oleks tahtnud html-cssi teha
