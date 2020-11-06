@@ -1,7 +1,17 @@
+# PROJEKT 2 Fest-Lab
+## Link Figmale (avalik)
+[FIGMA](https://www.figma.com/file/cBEt1PxIzU4m0K6qyPbfVG/Untitled)
+## Link rakendusele
+[Projekti ül](https://github.com/kuressaareametikool/tarkvaraprojektid/wiki/2020%E2%88%9521-PROJEKT-nr-2-%E2%80%92-Tahvli-tunniplaan)
+## Tiimi liikmed
+* **Priit Puppart**
+  * javascript, rahul
+  * vaatasin, kuidas koodi kirjutatakse
+  * gitis orienteerumine
+
 * **Karl Gregor Rauniste**
   * figma, rahul
  <br>
-
 
 * **Kadri Maripuu**
   * figma, rahul
