@@ -4,6 +4,7 @@
     padding: 0;
     font-family: 'Lato', sans-serif;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -46,7 +47,7 @@ a {
 }
 
 .top-nav {
-    border: solid;
+    border-bottom: solid;
     background-color: #1D5381;
     padding: 5px;
     width: 100%;
@@ -80,6 +81,7 @@ a {
     justify-content: space-between;
     border-left: solid #0094FF;
     scroll-margin-top: 6.5rem;
+    margin-top: 15px;
 }
 
 .tabel {
@@ -101,7 +103,6 @@ a {
 }
 
 .dayyTop {
-    display: flex;
     flex-direction: column;
     width: 100%;
     margin-top: 100px;
@@ -124,6 +125,7 @@ a {
     margin-right: 10px;
     margin-top: 10px;
     padding: 5px;
+    border-radius: 5px;
 }
 
 .firstRow {
@@ -135,7 +137,7 @@ a {
 .calender {
     position: fixed;
     background-color: azure;
-    top: 3.9rem;
+    top: 3.5rem;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
@@ -152,8 +154,8 @@ a {
     margin-right: 10px;
     margin-top: 10px;
     align-items: center;
-    padding: 2px;
-    background-color: #1D5381;
+    padding-left: 10px;
+    background-color: #0094FF;
 }
 
 
