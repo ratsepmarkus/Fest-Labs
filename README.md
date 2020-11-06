@@ -32,12 +32,6 @@
   * figmas wireframe kasutamine
    <br>
 
-* **Karl Jäme**
-  * html-css, rahul
-  * õpetasin naabrit
-  * kuidas gridi kasutada
-   <br>
-
 * **Rasmus Ling**
   * Html-css, oleks tahtnud olla figmas
   * suhtlusoskus
@@ -57,12 +51,6 @@
   * Javascriptiga API
    <br>
 
-* **Priit Puppart**
-  * javascript, rahul. Oleks tahtnud osata aidata ja anda suuremat omapoolset panust. Hetkel jäin rohkem vaataja rolli.
-  * vaatasin, kuidas koodi kirjutatakse ning kuidas selle tarvis on google.com keskkonnast võimalik leida palju kohendamist vajavaid valmislahendusi.
-  * gitis orienteerumine. Dev.doolsist rohkem arusaamine ning kuidas on sellest abi.
-   <br>
-
 * **Terje Volke**
   * javascript, rahul 
   * vaatasin, kuidas koodi kirjutatakse
@@ -80,12 +68,6 @@
   * html-css, rahul
   * õpetasin naabrit
   * kuidas gridi kasutada
-
-
-* **Terje Volke**
-  * javascript, rahul 
-  * keskendumine infomüras
-  * git, APId
 
 
 Link Figmale (avalik)
