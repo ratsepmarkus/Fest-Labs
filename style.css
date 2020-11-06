@@ -81,6 +81,7 @@ a {
     justify-content: space-between;
     border-left: solid #0094FF;
     scroll-margin-top: 6.5rem;
+    margin-top: 15px;
 }
 
 .tabel {
@@ -98,7 +99,7 @@ a {
 .dayy {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 100%;ˇ
 }
 
 .dayyTop {
